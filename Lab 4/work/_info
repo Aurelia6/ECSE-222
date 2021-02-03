@@ -1,0 +1,108 @@
+m255
+K3
+z0
+13
+cModel Technology
+dP:\Lab 2 ac
+Egame_controller
+Z0 w1543256737
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dP:/lab4
+Z5 8P:/lab4/game_controller.vhdl
+Z6 FP:/lab4/game_controller.vhdl
+l0
+L15
+VQAnH[7mM3]8m0=mTSiBRK2
+!s100 9bUD]Tj>l=OOajJS<LLB40
+Z7 OV;C;10.4b;61
+32
+Z8 !s110 1543256740
+!i10b 1
+Z9 !s108 1543256739.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|P:/lab4/game_controller.vhdl|
+Z11 !s107 P:/lab4/game_controller.vhdl|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1
+Abehaviour
+R1
+R2
+R3
+Z14 DEx4 work 15 game_controller 0 22 QAnH[7mM3]8m0=mTSiBRK2
+l195
+L72
+VBiUA>YHCigdO7U`:07:::3
+!s100 N:DW7S^[;GjUJSB:eeZHS3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Etb_game_controller
+Z15 w1543256277
+R1
+R2
+R3
+R4
+Z16 8P:/lab4/tb_game_controller.vhdl
+Z17 FP:/lab4/tb_game_controller.vhdl
+l0
+L11
+V5NbZaR=cEA5NZN2U?GiWG0
+!s100 iU3?Sb^n`182WPnN3=?;`0
+R7
+32
+Z18 !s110 1543256739
+!i10b 1
+R9
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|P:/lab4/tb_game_controller.vhdl|
+Z20 !s107 P:/lab4/tb_game_controller.vhdl|
+!i113 1
+R12
+R13
+Abehaviour
+R1
+R2
+R3
+DEx4 work 18 tb_game_controller 0 22 5NbZaR=cEA5NZN2U?GiWG0
+l83
+L14
+Vm?m4OcV5Oc1OO6Mi625ia3
+!s100 PkZfN^Ifld_Sm:VT>7cKh1
+R7
+32
+R18
+!i10b 1
+R9
+R19
+R20
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 18 tb_game_controller 0 22 `Ed5G>P?O6`JUFWKD2o@U1
+l35
+L8
+V5c9YC4N]8R[FD[W1=7A[J0
+!s100 hjhDJ8_MSXeliU_<5GoG]2
+R7
+32
+!s110 1543253674
+!i10b 1
+!s108 1543253674.000000
+R19
+R20
+!i113 1
+R12
+R13
+w1543253318
